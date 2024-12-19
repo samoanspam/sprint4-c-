@@ -1,0 +1,5 @@
+Name:Teia
+Class:Mage
+Ability:Fireball
+Points:0
+Inventory:
