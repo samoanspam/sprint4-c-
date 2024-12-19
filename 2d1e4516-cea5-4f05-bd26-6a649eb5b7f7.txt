@@ -1,0 +1,5 @@
+Name:Lizbeth Patane
+Class:Archer
+Ability:Stealth
+Points:0
+Inventory:
