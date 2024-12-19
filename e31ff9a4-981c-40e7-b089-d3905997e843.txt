@@ -1,0 +1,5 @@
+Name:Teia Patane
+Class:Archer
+Ability:fIrEbAll
+Points:0
+Inventory:

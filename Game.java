@@ -119,7 +119,7 @@ public class Game {
     public void viewCredits() {
         System.out.println("=====================================");
         System.out.println("Adventure Game Credits");
-        System.out.println("Game created by: Your Name");
+        System.out.println("Game created by: The Players");
         System.out.println("Special thanks to: OpenAI for AI assistance");
         System.out.println("=====================================");
         showMenu(); // return to the main menu after showing credits
